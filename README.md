@@ -14,7 +14,7 @@ To start using the "todoList" application, follow these steps:
 
 1. Clone the repository to your local machine:
 ```bash
-   git clone https://github.com/yourusername/todoList.git
+   git clone https://github.com/oyeadii/todoList.git
 ```
  
 2. Install the required dependencies:
